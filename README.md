@@ -18,7 +18,7 @@ This demo is the same as the starter, but will persist your index.
 
 ### Installation Documentation
 
-Installation instructions can be found [here](https://docs.llamaindex.ai/en/stable/getting_started/installation.html).
+_Official Llamaindex installation instructions can be found [here](https://docs.llamaindex.ai/en/stable/getting_started/installation.html)._
 
 #### Open AI Key Installation Steps:
 
@@ -32,6 +32,12 @@ Installation instructions can be found [here](https://docs.llamaindex.ai/en/stab
   4. Save and Exit: Press `Ctrl+O` to write the changes, followed by `Ctrl+X` to close the editor.
   5. Load Your Profile: Use the command `source ~/.bash_profile` or `source ~/.zshrc` to load the updated profile.
   6. Verification: Verify the setup by typing `echo $OPENAI_API_KEY` in the terminal. It should display your API key.
+
+### Set up your env
+
+- Create: `python -m venv env`
+- Activate: `source/env/bin/activate`
+- Pip: `pip install requirements.txt`
 
 ### References
 
