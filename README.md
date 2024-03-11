@@ -2,24 +2,6 @@
 
 This repository is part of the "Introducing Llama Index" demo, which can be found [here](https://bit.ly/3ItUEc9). It contains a very simple implementation that allows you to index the "paul_graham_essay.txt" and prompt questions. The demo is based on the official Llamaindex starter tutorial found [here](https://docs.llamaindex.ai/en/stable/getting_started/starter_example.html).
 
-### Starter.py
-
-This is the simplest implementation which will:
-
-- Load the document
-- Index it and create the vectors
-- Answer the question
-
-From the root directory run `python starter.py`
-
-Note: In this implementation, the index is not persistent.
-
-### Storing-your-index.py
-
-This demo is the same as the starter, but will persist your index. You will notice a "storage" directory with your index has been created.
-
-From the root directory run `python storing-your-index.py`
-
 ### Installation Documentation
 
 _Official Llamaindex installation instructions can be found [here](https://docs.llamaindex.ai/en/stable/getting_started/installation.html)._
@@ -43,6 +25,26 @@ _Official Llamaindex installation instructions can be found [here](https://docs.
 - Create: `python -m venv env`
 - Activate: `source/env/bin/activate`
 - Pip: `pip install -r requirements.txt`
+
+### Files
+
+### Starter.py
+
+This is the simplest implementation which will:
+
+- Load the document
+- Index it and create the vectors
+- Answer the question
+
+From the root directory run `python starter.py`
+
+Note: In this implementation, the index is not persistent.
+
+### Storing-your-index.py
+
+This demo is the same as the starter, but will persist your index. You will notice a "storage" directory with your index has been created.
+
+From the root directory run `python storing-your-index.py`
 
 ### References
 
