@@ -28,7 +28,7 @@ _Official Llamaindex installation instructions can be found [here](https://docs.
 
 ### Files
 
-### Starter.py
+**Starter.py**
 
 This is the simplest implementation which will:
 
@@ -40,7 +40,7 @@ From the root directory run `python starter.py`
 
 Note: In this implementation, the index is not persistent.
 
-### Storing-your-index.py
+**Storing-your-index.py**
 
 This demo is the same as the starter, but will persist your index. You will notice a "storage" directory with your index has been created.
 
