@@ -37,7 +37,7 @@ _Official Llamaindex installation instructions can be found [here](https://docs.
 
 - Create: `python -m venv env`
 - Activate: `source/env/bin/activate`
-- Pip: `pip install requirements.txt`
+- Pip: `pip install -r requirements.txt`
 
 ### References
 
