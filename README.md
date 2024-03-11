@@ -10,11 +10,15 @@ This is the simplest implementation which will:
 - Index it and create the vectors
 - Answer the question
 
+From the root directory run `python starter.py`
+
 Note: In this implementation, the index is not persistent.
 
 ### Storing-your-index.py
 
-This demo is the same as the starter, but will persist your index.
+This demo is the same as the starter, but will persist your index. You will notice a "storage" directory with your index has been created.
+
+From the root directory run `python storing-your-index.py`
 
 ### Installation Documentation
 
