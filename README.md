@@ -1,8 +1,6 @@
 ## Overview
 
-This repository is part of the "Introducing Llama Index" demo, which can be found [here](https://bit.ly/3ItUEc9).
-
-This repository contains a very simple implementation that allows you to index the "paul_graham_essay.txt" and prompt questions. The demo is based on the official Llamaindex starter tutorial found [here](https://docs.llamaindex.ai/en/stable/getting_started/starter_example.html).
+This repository is part of the "Introducing Llama Index" demo, which can be found [here](https://bit.ly/3ItUEc9). It contains a very simple implementation that allows you to index the "paul_graham_essay.txt" and prompt questions. The demo is based on the official Llamaindex starter tutorial found [here](https://docs.llamaindex.ai/en/stable/getting_started/starter_example.html).
 
 ### Starter.py
 
