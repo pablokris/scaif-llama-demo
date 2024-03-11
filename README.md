@@ -22,6 +22,7 @@ _Official Llamaindex installation instructions can be found [here](https://docs.
 ### Set up your env
 
 - Clone: `git clone https://github.com/pablokris/scaif-llama-demo.git`
+- `cd llama-demo`
 - Create: `python -m venv env`
 - Activate: `source/env/bin/activate`
 - Pip: `pip install -r requirements.txt`
